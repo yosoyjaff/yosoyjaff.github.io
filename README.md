@@ -1,4 +1,4 @@
 # Excel APP 
 
-Aplicativo excel conbina excel del mismo formato en uno solo
+Aplicativo excel combina excel del mismo formato en uno solo
 
